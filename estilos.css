@@ -1,0 +1,39 @@
+#principal {
+    border: solid 1px #b64343;
+    padding: 5px;
+    margin: 0 auto;
+    width: 85%;
+    background: #318f7a;
+}
+
+fieldset {
+    margin-bottom: 10px;
+}
+
+legend {
+    border: solid 1px #39516b;
+    padding: 5px;
+    font-weight: bold;
+    background: #aa6262;
+    border-radius:15px;
+}
+
+#mifoto {
+    border: solid 2px;
+    margin: 5px;
+}
+
+#Carreras {
+    padding: 10px;
+}
+
+body {
+    border: solid 1px #587594;
+    padding: 5px;
+    font-weight: bold;
+    background: #7c961f;
+    border-radius:15px;
+}
+#title {
+    font-size: larger;
+}
